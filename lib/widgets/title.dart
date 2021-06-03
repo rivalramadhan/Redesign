@@ -18,7 +18,7 @@ class TextTitle extends StatelessWidget {
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(8),
                     image: DecorationImage(
-                      image: AssetImage('assets/images/logo.png'),
+                      image: AssetImage('assets/images/pepsi.jpg'),
                     ),
                     boxShadow: [
                       BoxShadow(

@@ -33,7 +33,7 @@ class Itemlist extends StatelessWidget {
                     Border(top: BorderSide(width: 1.0, color: Colors.black12))),
           ),
           ItemCard(
-            img: 'assets/images/logo2.jpg',
+            img: 'assets/images/singa1.jpg',
             title: 'Hatch End',
             price: r'$.20 per hour',
           ),
